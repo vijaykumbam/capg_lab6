@@ -1,0 +1,3 @@
+Some variable types are never shared. The following types are always thread-safe:
+Local variables
+Method parameters
